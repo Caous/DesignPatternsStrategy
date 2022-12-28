@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatregyProject", "StatregyProject\StatregyProject.csproj", "{378547EC-4AA6-4732-8169-81F4E461B7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378547EC-4AA6-4732-8169-81F4E461B7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378547EC-4AA6-4732-8169-81F4E461B7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378547EC-4AA6-4732-8169-81F4E461B7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378547EC-4AA6-4732-8169-81F4E461B7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94FA1D40-D565-4F06-98D5-739EA8D002FE}
+	EndGlobalSection
+EndGlobal
